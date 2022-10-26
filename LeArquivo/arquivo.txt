@@ -1,0 +1,3 @@
+Este é o arquivo a ser lido
+Conteúdo
+Última linha
